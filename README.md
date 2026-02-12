@@ -1,4 +1,7 @@
 # U.S. States Guessing Game 🤠
+
+## <img width="725" height="521" alt="image" src="https://github.com/user-attachments/assets/7b6bb13b-f6ff-4898-9204-d48cf3699b3e" />
+
 An educational geography game designed to test and improve knowledge of U.S. geography. Built using **Python**, **Pandas**, and **Turtle**, this game combines data science fundamentals with interactive graphics.
 
 The project has been architected with **Object-Oriented Programming (OOP)** principles to ensure modularity, scalability, and clean data separation.
